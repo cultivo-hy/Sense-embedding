@@ -16,7 +16,6 @@ Contents
 		git clone https://github.com/sukgiyeol/Sense-Embedding.git
 		cd ./Sense-Embedding/src		
 		make
-Github에서 Sense-Embedding을 설치한 뒤 src 폴더로 이동 , Makefile을 실행시킨다.
 
 구조도
 =====
