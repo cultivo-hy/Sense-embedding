@@ -6,6 +6,7 @@ Contents
 * [설치방법](#installation)
 * [구조도](#structure)
 * [사용법](#usage)
+
 설치방법 
 ============
 		git clone https://github.com/sukgiyeol/Sense-Embedding.git
@@ -16,5 +17,5 @@ Github에서 Sense-Embedding을 설치한 뒤 src 폴더로 이동 , Makefile을
 =====
 ![구조도](./img/structure.png)
 
-구조도
+사용법
 =====
